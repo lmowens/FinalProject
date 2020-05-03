@@ -2,10 +2,7 @@
 	"events": [
 		{
 			"info": "Course Detail",
-			"content": "Name	Web Development",
-			"content": "Number	CIS 376"
-
-           
+			"content": "Name	Web Development"
       }
     ]
 }
