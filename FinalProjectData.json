@@ -16,7 +16,11 @@
 			"header5": "Knowledge & Skills",
 			"content4": "- Web Developer lexicon",
 			"content5": "- markup, page layouts, behavior, and interaction",
-			"content6": "- Document Object Model manipulation, JavaScript Object Notation"
+			"content6": "- Document Object Model manipulation, JavaScript Object Notation",
+			"content7": "- Web Dev Ecosystem",
+			"content8": "- File naming, directory/repository configuration, compression, exporting/cloning, hosting configuration/architecture, testing & debugging",
+			"content9": "- Standards",
+			"content10": "- Google Style Guide, W3C Accessibility Standards"
       }
     ]
 }
