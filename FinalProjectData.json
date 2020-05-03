@@ -2,13 +2,9 @@
 	"events": [
 		{
 			"info": "Course Detail",
-			"content": "Name Web Development
-Number CIS 376
-Section 01
-Term Spring 2020
-CRN 20947
-Delivery Traditional classroom
-Homepage una.instructure.com"
+			"content": "Name	Web Development",
+			"content": "Number	CIS 376"
+
            
       }
     ]
