@@ -1,7 +1,8 @@
 {
 	"events": [
 		{
-			"info": "General Course Information"
+			"info": "General Course Information",
+			"content": "stuff"
       }
     ]
 }
