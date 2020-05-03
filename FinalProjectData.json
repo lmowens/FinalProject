@@ -3,7 +3,8 @@
 		{
 			"header1": "Course Description",
 			"content": "A fundamental course in Web Development utilizing contemporary standards, methods, and tools for students to develop skills in creating and deploying web-based content. Students learn development concepts spanning markup and programming languages and libraries, local and hosted environments, versioning control systems, and development tools.",
-			"header2": "Course Learning Objectives"
+			"header2": "Course Learning Objectives",
+			"content2": "The objectives of this course are for students to:"
       }
     ]
 }
