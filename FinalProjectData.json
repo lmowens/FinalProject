@@ -1,9 +1,9 @@
 {
 	"events": [
 		{
-			"location": "Killen, AL",
-			"date": "Aug 1",
-			"map": "https://www.una.edu/international/why-choose-una/227x150xflorence-alabama.jpg.pagespeed.ic.H_q6lbu4ug.jpg"
+			"desc": "This should be the course description",
+			"hours": "these are the hours",
+			
       },
 		{
 			"location": "Sheffield, AL",
