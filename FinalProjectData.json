@@ -1,5 +1,5 @@
 {
-	"events": [
+	"fdata": [
 		{
 			"header1": "Course Description",
 			"content": "A fundamental course in Web Development utilizing contemporary standards, methods, and tools for students to develop skills in creating and deploying web-based content. Students learn development concepts spanning markup and programming languages and libraries, local and hosted environments, versioning control systems, and development tools.",
@@ -10,7 +10,8 @@
 			"num3": "3. develop web-based content", 
 			"num4": "4. determine deficiencies in web-based interface design", 
 			"num5": "5. create improved web-based interfaces",
-			"header3": "Course Topics"
+			"header3": "Course Topics",
+			"sheader": "Languages and Libraries"
       }
     ]
 }
