@@ -1,10 +1,44 @@
 {
 	"events": [
 		{
-			"info": "This should be the course description"
+			"info": "Course Detail
+            Name Web Development
+            Number CIS 376
+            Section 01
+            Term Spring 2020
+            CRN 20947
+            Delivery Traditional classroom
+            Homepage una.instructure.com
+            Class Meetings, SPRING 2020
+            Days 11am-12:15pm
+            Times Tuesdays & Thursdays
+            Room Keller #220
+            Course Instructor
+            Instructor Barry A. Cumbie, Ph.D.
+            Associate Professor, Department of Computer Science & Information Systems
+            Salutation Dr. Cumbie or Professor Cumbie
+            Phone (256) 765-4783
+            Email bcumbie@una.edu
+            Office Keller #249
+            Office Hours Tuesdays & Thursdays, 12:30pm-3:30pm
+            Dr. Cumbie’s Academic Calendar
+            Class Calendar, SPRING 2020
+            30 class meeting days + Final Exam
+            Jan 09 - First Class
+            Jan 15 - Registration Ends
+            Jan 16-Apr 16 - Drop Period
+            Feb 28 - Midterm
+            Mar 23-27 - Spring Break
+            April 9-16 - Virtual Classes (Cumbie in China)
+            April 27 - Last Class
+            May 1 - Final Exam"
       }
     ]
 }
+        
+       
+        
+
         
        
         
